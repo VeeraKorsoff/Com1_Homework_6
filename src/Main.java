@@ -5,7 +5,7 @@ public class Main {
         for (int k = 0; k <= 10; k++) {
             double result = (k * (Math.PI / 5));
             System.out.println("Alpha: " + result + " Sin alpha: " + Math.sin(result) + " Cos alpha: " + Math.cos(result));
-            
+            }
 
             //HW 2
         import static ibio.Helpers.*;
